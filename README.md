@@ -1,4 +1,4 @@
-## 😎 Jean Lima LopesLima 
+## 😎 Jean Lima Lopes
 
 ```csharp
 Developer Jean = Developer
