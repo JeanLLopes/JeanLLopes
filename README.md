@@ -1,16 +1,30 @@
-### Hi there 👋
+## 😎 Jean Lima LopesLima 
 
-<!--
-**JeanLLopes/JeanLLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```csharp
+Developer Jean = Developer
+    .Married()
+    .LivesIn(Countries.Brazil)
+    .CodesIn(language => language
+        .CSharp()
+        .TypeScript()
+        .JavaScript()
+        .Go()
+        .Python())
+    .Interested(@in => @in
+        .SoftwareArchitecture()
+        .DomainDrivenDesign()
+        .DistributedSystems())
+    .Found(at => at
+        .Twitter("https://twitter.com/_jeanllopes")
+        .LinkedIn("https://br.linkedin.com/in/jean-lima-lopes-5a241245"));
 
-Here are some ideas to get you started:
+while (jean.HasLife)
+{
+    jean.Travel();
+    jean.EnjoyLife();
+    jean.Code();
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// todo: find out what is next 😅
+
+```
