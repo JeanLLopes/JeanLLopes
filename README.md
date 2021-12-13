@@ -8,6 +8,13 @@ Developer Jean = Developer
         .CSharp()
         .TypeScript()
         .JavaScript()
+        .SQL()
+        .Bash() 
+        .Shell()
+        .Python()
+        .Node()
+        .Erlang()
+        .JavaScript()
         .Go()
         .Python())
     .Interested(@in => @in
